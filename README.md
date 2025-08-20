@@ -1,4 +1,10 @@
+<p align="center">
+  <img width="400" height="143" alt="python" src="https://github.com/user-attachments/assets/4772aa55-a36a-4945-bee8-121cc297f53d" />
+</p>
+
 # 👩‍💼 Employee Management System (Python)
+This project was developed as part of a task assigned by the **Digital Egypt Pioneers Initiative (DEPI)**, under the **Ministry of Communications and Information Technology (MCIT), Egypt**.
+
 
 ## 📌 Overview
 This is a simple **Employee Management System** built with Python.  
