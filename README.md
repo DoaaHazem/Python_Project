@@ -4,6 +4,8 @@
 
 # 👩‍💼 Employee Management System (Python)
 This project was developed as part of a task assigned by the **Digital Egypt Pioneers Initiative (DEPI)**, under the **Ministry of Communications and Information Technology (MCIT), Egypt**.
+A simple Python program for managing employee records using **CSV files**.  
+The system allows adding, updating, deleting, searching, and viewing employee details.  
 
 
 ## 📌 Overview
@@ -26,5 +28,13 @@ The system is **console-based** (command-line interface) and designed to be **us
 - Salary stored as **float** (numbers only).
 - Persistent storage using **CSV file**.
 - Clear error handling with friendly messages.
+- Add new employee with validations (ID, Name, Position, Salary, Email).
+- Update employee details with option to skip fields.
+- Delete employee by ID.
+- Search employee by ID.
+- View all employees in a formatted table.
+- Data is stored in a CSV file (`employees.csv`) for persistence.
+
+
 
 ---
